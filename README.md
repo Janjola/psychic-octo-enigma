@@ -1,6 +1,6 @@
 # Gully Masti Android APK project
 
-This wraps the supplied Gully Masti HTML/CSS/JavaScript game in an Android WebView. The game files are in `app/src/main/assets/`.
+The game files are in `app/src/main/assets/`.
 
 1. Extract the downloaded ZIP; install `GullyMasti.apk` on Android.
 
